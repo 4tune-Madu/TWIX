@@ -1,0 +1,60 @@
+body {
+    background-color: white;
+    color: black;
+    margin: ; 
+}
+
+#logo {
+    width: 2rem;
+    height: 2rem;
+}
+
+#topic {
+    font-size: 2rem;
+    font-weight: bolder;
+    width: 20rem;
+}
+
+#logo, #topic, #t1a {
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+}
+
+#t1a {
+    width: 8rem;
+    float: right;
+    height: 2rem;
+    background-color: aqua;
+}
+
+#t1aa {
+    width: 25%;
+    height: 90%;
+    background-color: black;
+    margin: 0 0 0 0;
+    display: inline-block;
+}
+
+li, a {
+    display: inline-block;
+    width: 40px;
+    text-align: center;
+    margin: 0;
+
+}
+
+
+
+.t2 {
+    width: 100%;
+    text-align: center;
+}
+
+.t3 {
+    display: block;
+    text-align: center;
+    height: 15rem;
+    width: 100%;
+    background-color: darkgrey;
+}
